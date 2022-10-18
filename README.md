@@ -109,10 +109,10 @@
 
 ### Blog 🎞
 
-<a href="https://velog.io/@mooh2jj" target="_blank"><img src="https://img.shields.io/badge/velog-3DDC84?style=flat-square&logo=velog&logoColor=white"/></a>
+<a href="https://velog.io/@mooh2jj" target="_blank"><img src="https://img.shields.io/badge/velog-00FF99?style=flat-square&logo=velog&logoColor=white"/></a>
 <a href="https://rain-tank-b79.notion.site/AlphaGiver-CleanCode-90183d48a14f4420ae8d9819b1e5c871" target="_blank"><img src="https://img.shields.io/badge/Notion-FFFFF0?style=flat-square&logo=Notion&logoColor=black"/></a>
 <a href="https://www.linkedin.com/in/seong-gon-do-9b6988b4/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="https://blog.naver.com/mooh2jj" target="_blank"><img src="https://img.shields.io/badge/Naver-3DDC84?style=flat-square&logo=Naver&logoColor=white"/></a>
+<a href="https://blog.naver.com/mooh2jj" target="_blank"><img src="https://img.shields.io/badge/Naver-00FF00?style=flat-square&logo=Naver&logoColor=white"/></a>
 
 <br>
 
