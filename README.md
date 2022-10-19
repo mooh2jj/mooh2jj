@@ -95,7 +95,7 @@
 * 테스트 주도 개발 시작하기
 * 도메인 주도 개발 시작하기
 * 도메인 주도 설계로 시작하는 마이크로서비스 개발
-* F-lab 자바 스프링 백앤드 과정 수료
+* [F-lab 자바 스프링 백앤드 과정 수료](https://velog.io/@mooh2jj/series/%ED%9A%8C%EA%B3%A0%EB%A1%9D)
 
 
 </div>
@@ -103,6 +103,7 @@
 
 
 ### Doing 🏃‍
+* [개발자 인사이트 북 리뷰](https://velog.io/@mooh2jj/series/book%EB%A6%AC%EB%B7%B0)
 * EbrainSoft 게시판 스터디 
 * study - [자바 챌린지](https://github.com/mooh2jj/Java-Challenge-Study)
 * study - [자바 코딩 인터뷰 완벽 가이드](https://github.com/mooh2jj/Java-Coding-Interview-Study)
