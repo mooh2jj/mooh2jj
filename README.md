@@ -107,6 +107,7 @@
 * EbrainSoft 게시판 스터디 
 * study - [자바 챌린지](https://github.com/mooh2jj/Java-Challenge-Study)
 * study - [자바 코딩 인터뷰 완벽 가이드](https://github.com/mooh2jj/Java-Coding-Interview-Study)
+* study - [자바 웹개발 배포 챌린지](https://github.com/mooh2jj/deploy-challenge-study.git)
 
 ### Blog 🎞
 
