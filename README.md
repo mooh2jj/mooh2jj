@@ -106,7 +106,8 @@
 * [개발자 인사이트 북 리뷰](https://velog.io/@mooh2jj/series/book%EB%A6%AC%EB%B7%B0)
 * study - [자바 챌린지](https://github.com/mooh2jj/Java-Challenge-Study)
 * study - [스프링 프로젝트 챌린지](https://github.com/mooh2jj/spring-project-challenge-study)
-* study - [웹개발 배포 챌린지](https://github.com/mooh2jj/deploy-challenge-study.git)
+* study - [웹개발 배포 챌린지](https://github.com/mooh2jj/deploy-challenge-study)
+* study - [사이드 프로젝트 챌린지](https://github.com/mooh2jj/side-project-challenge-study)  
 
   
 ### Blog 🎞
