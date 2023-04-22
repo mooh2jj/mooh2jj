@@ -46,7 +46,7 @@
 <summary>2020</summary>
 <div markdown="1">
 
-* 스티브리자바 웹개발 취업과정 4개월 수료
+* 웹개발 스터디 취업과정 4개월 수료
 * 처음 해보는 Servlet & JSP 웹 프로그래밍
 * 자바 웹을 다루는 기술
 * Oracle SQL : 실전 오라클 SQL 가이드
