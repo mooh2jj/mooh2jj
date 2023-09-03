@@ -38,7 +38,6 @@
 * SQL 첫걸음
 * 이것이 MySQL이다
 * 모던 웹을 위한 JavaScript + jQuery 입문
-* 스티브리자바 웹개발 취업과정 수강
 </div>
 </details>
 
