@@ -6,10 +6,9 @@
 ### Activity 🕹
 * [개발자 인사이트 북 리뷰](https://velog.io/@mooh2jj/series/book%EB%A6%AC%EB%B7%B0)
 * study
-     - [모던 자바 스터디](https://github.com/mooh2jj/Java-Challenge-Study)
-     - [스프링 부트 스터디](https://github.com/mooh2jj/spring-project-challenge-study)
+     - [AX CS 스터디](https://velog.io/@mooh2jj/AI-Product-스터디-회고-CS-스터디-1주차-하드웨어-컴퓨터-구조와-연산의-본질-그리고-AI-GPU)
+     - [AX 딥다이브 Java 스터디](https://velog.io/@mooh2jj/AX-Product-스터디-회고-Java-스터디-1주차-런타임-메커니즘-모델-추상화-설계)
      - [배포 스터디](https://github.com/mooh2jj/deploy-challenge-study)
-     - [사이드 프로젝트 챌린지](https://github.com/mooh2jj/side-project-challenge-study)
      - [리액트 스터디](https://github.com/mooh2jj/React-Challenge-Study)
 
   
