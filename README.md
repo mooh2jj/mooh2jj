@@ -8,8 +8,6 @@
 * study
      - [AX CS 스터디](https://velog.io/@mooh2jj/AI-Product-스터디-회고-CS-스터디-1주차-하드웨어-컴퓨터-구조와-연산의-본질-그리고-AI-GPU)
      - [AX 딥다이브 Java 스터디](https://velog.io/@mooh2jj/AX-Product-스터디-회고-Java-스터디-1주차-런타임-메커니즘-모델-추상화-설계)
-     - [배포 스터디](https://github.com/mooh2jj/deploy-challenge-study)
-     - [리액트 스터디](https://github.com/mooh2jj/React-Challenge-Study)
 
   
 ### Blog 🎞
